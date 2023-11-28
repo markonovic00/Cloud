@@ -1,0 +1,6 @@
+C:\Users\marko\Downloads\DiscordCloud-main\DiscordCloud-main\Cloud_Zadatak\Common\bin\Debug\Common.dll
+C:\Users\marko\Downloads\DiscordCloud-main\DiscordCloud-main\Cloud_Zadatak\Common\bin\Debug\Common.pdb
+C:\Users\marko\Downloads\DiscordCloud-main\DiscordCloud-main\Cloud_Zadatak\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\marko\Downloads\DiscordCloud-main\DiscordCloud-main\Cloud_Zadatak\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\marko\Downloads\DiscordCloud-main\DiscordCloud-main\Cloud_Zadatak\Common\obj\Debug\Common.dll
+C:\Users\marko\Downloads\DiscordCloud-main\DiscordCloud-main\Cloud_Zadatak\Common\obj\Debug\Common.pdb

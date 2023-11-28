@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gd6EVI9GVuVdXGfISip7NwAGVyKbFq6siP9g8m1vRy82doQbo9ueeqU+PIdfjQDBb3Ye2ERG3mF2Z0+f+/Vfpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marko\\Downloads\\DiscordCloud-main\\DiscordCloud-main\\Cloud_Zadatak\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.servicefabric\\10.0.1949\\microsoft.servicefabric.10.0.1949.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.abstractions\\7.0.1949\\microsoft.servicefabric.aspnetcore.abstractions.7.0.1949.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.kestrel\\7.0.1949\\microsoft.servicefabric.aspnetcore.kestrel.7.0.1949.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.servicefabric.data\\7.0.1949\\microsoft.servicefabric.data.7.0.1949.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\7.0.1949\\microsoft.servicefabric.data.extensions.7.0.1949.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\7.0.1949\\microsoft.servicefabric.data.interfaces.7.0.1949.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\7.0.1949\\microsoft.servicefabric.diagnostics.internal.7.0.1949.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.servicefabric.services\\7.0.1949\\microsoft.servicefabric.services.7.0.1949.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.0\\microsoft.netcore.app.runtime.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
